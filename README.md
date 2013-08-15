@@ -21,4 +21,4 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 [2]: https://raw.github.com/idleberg/Harper-CodeMirror/master/images/screenshot.png
 [3]: http://codemirror.net/doc/manual.html
 [4]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-[5]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Harper-CodeMirror//&title=Harper%20Color%20Scheme&category=software
+[5]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Harper-CodeMirror/&title=Harper%20Color%20Scheme&category=software
