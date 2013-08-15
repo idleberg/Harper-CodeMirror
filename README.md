@@ -6,7 +6,7 @@ A color scheme inspired by the art of [Charley Harper][1] (1922-2007)
 
 ## Installation
 
-1. Download a style-sheet and place it to CodeMirror's `theme` directory
+1. Download the style-sheet and place it to CodeMirror's `theme` directory
 2. Refer to the [CodeMirror Manual][3] for build instructions
 
 ## License
